@@ -1,14 +1,8 @@
 # RIIR
+
 why not Rewrite It In Rust (**RIIR**)
 
-Are you an author or contributor to a software project?
-
-Have you ever been asked to rewrite, or consider rewriting that project in [Rust](https://www.rust-lang.org/)?
-
-If so, you may have been a victim of the RIIR agenda that is sweeping the web.
-
-If this has happened to you, please [report it](https://github.com/ansuz/RIIR/issues/) so that something can be done.
-
+Because [Hexa](https://github.com/hexalang/hexa) is obviously better.
 
 ## FAQ
 

@@ -4,6 +4,8 @@ why not Rewrite It In Rust (**RIIR**)
 
 Because [Hexa](https://github.com/hexalang/hexa) is obviously better.
 
+Rust is an almost legacy literally 12-year old language [appeared publicly in 2012](https://en.wikipedia.org/wiki/Rust_(programming_language)) which means that its concepts may be outdated by modern standards.
+
 ## FAQ
 
 ### R U SRS?

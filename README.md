@@ -4,7 +4,11 @@
 
 why not Rewrite It In Rust (**RIIR**)
 
-Because [Hexa](https://github.com/hexalang/hexa) is obviously better.
+Because [Hexa & C*](https://github.com/hexalang/hexa) is obviously better.
+By the way, careful usage of C++ gets all benefits of Rust without horrible amounts of memory leaks, 
+anyone remember cosmic desktop? May be you shall not be fanatic rust user asking everyone to rewrite their stuff.
+https://www.youtube.com/watch?v=PG0wRb7eYms
+
 
 Rust is an almost legacy literally 12-year old language [appeared publicly in 2012](https://en.wikipedia.org/wiki/Rust_(programming_language)) which means that its concepts may be outdated by modern standards.
 
